@@ -2,6 +2,10 @@
 
 :mailbox: Reach me out!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Nevfel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevfelgokberkozdeniz/) [![Mail Badge](https://img.shields.io/badge/-@nevfelozdeniz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-nevfelozdeniz-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nevfelo@gmail.com)
+
+### CoderOne Newsletter
+Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
 
 <!--
 **nevfelozdeniz/nevfelozdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
