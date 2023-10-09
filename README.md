@@ -15,9 +15,7 @@ I'm Nevfel Ozdeniz a Frontend Web Developer.
 #### Business
 - :paperclip: [My Resume/CV](#)
 - :email: nevfelo@gmail.com
-
-
-
-
+</br>
+ </br> 
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=nevfelozdeniz.nevfelozdeniz)](#)
