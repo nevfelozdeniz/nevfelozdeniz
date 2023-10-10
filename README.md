@@ -32,5 +32,5 @@ I'm Nevfel Ozdeniz a Frontend Web Developer.
 </br>
 </br> 
 
-
+---
 [![](https://visitor-badge.laobi.icu/badge?page_id=nevfelozdeniz.nevfelozdeniz)](#)
