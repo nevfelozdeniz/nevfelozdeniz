@@ -14,10 +14,6 @@ I'm Nevfel Ozdeniz a Frontend Web Developer.
 
 [![Angular Badge](https://img.shields.io/badge/-Angular-B52E31?style=for-the-badge&labelColor=black&logo=angular&logoColor=B52E31)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&labelColor=black&logo=html5&logoColor=FFA500)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563d7c)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-#### Business
-- :paperclip: [My Resume/CV](https://www.kariyer.net/ozgecmis/nevfelgokberkozdeniz?o=c15o )
-- :email: nevfelo@gmail.com
-
   ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nevfelozdeniz&theme=dark&hide_border=false)<br/>
@@ -28,8 +24,13 @@ I'm Nevfel Ozdeniz a Frontend Web Developer.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nevfelozdeniz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</br>
+#### Business
+- :paperclip: [My Resume/CV](https://www.kariyer.net/ozgecmis/nevfelgokberkozdeniz?o=c15o )
+- :email: nevfelo@gmail.com
 
 </br>
 </br> 
+
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=nevfelozdeniz.nevfelozdeniz)](#)
