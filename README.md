@@ -17,9 +17,10 @@ I'm Nevfel Ozdeniz a Frontend Web Developer.
 
 
   ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true) </br>
+![](https://github-readme-stats.vercel.app/api?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nevfelozdeniz&theme=dark&hide_border=false)<br/>
-![](https://githubreadmestats.vercel.app/api/toplangs/username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nevfelozdeniz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
