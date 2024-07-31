@@ -2,7 +2,7 @@
 
 ## Hi I'm Nevfel 👋
 
-I'm Nevfel Ozdeniz a Frontend Web Developer.
+I'm Nevfel Ozdeniz a Full Stack Web Developer.
 
 :mailbox: Reach me out!
 
