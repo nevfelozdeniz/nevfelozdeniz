@@ -12,7 +12,10 @@ I'm Nevfel Ozdeniz a Full Stack Web Developer.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-![HTML](https://img.shields.io/badge/-HTML-FFA500?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-B52E31?style=for-the-badge&logo=angular&logoColor=white) ![nodedotjs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white) ![amazondynamodb Badge](https://img.shields.io/badge/-SQL-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![graphql Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 
