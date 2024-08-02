@@ -62,5 +62,3 @@ I'm Nevfel Ozdeniz a Full Stack Web Developer.
 [![](https://visitor-badge.laobi.icu/badge?page_id=nevfelozdeniz.nevfelozdeniz)](#)
 
 </br>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/nevfelozdeniz/github-readme-stats)
