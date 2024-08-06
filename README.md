@@ -6,7 +6,7 @@ I'm Nevfel Ozdeniz a Full Stack Web Developer.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-NevfelGokberkOzdeniz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevfelgokberkozdeniz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-nevfelgokberkozdeniz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevfelgokberkozdeniz/) 
 [![Instagram Badge](https://img.shields.io/badge/-@nozdnz-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://instagram.com/nozdnz) 
 [![Mail Badge](https://img.shields.io/badge/-nevfelo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nevfelo@gmail.com)
 
