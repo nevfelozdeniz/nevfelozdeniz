@@ -44,9 +44,13 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </br>
+
 #### Business
-- :paperclip: [My Resume/CV](https://nevfel.vercel.app/)
-- :email: nevfelo@gmail.com
+
+
+
+📎 [My Resume/CV](https://nevfel.vercel.app/) </br>
+:email: nevfelo@gmail.com
 
 </br>
 
