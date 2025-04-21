@@ -7,7 +7,6 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-nevfelgokberkozdeniz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevfelgokberkozdeniz/) 
-[![Instagram Badge](https://img.shields.io/badge/-@nozdnz-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://instagram.com/nozdnz) 
 [![Mail Badge](https://img.shields.io/badge/-nevfelo@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nevfelo@gmail.com)
 
 #### Technologies
@@ -41,18 +40,12 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 ![Kanban](https://img.shields.io/badge/Kanban-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nevfelozdeniz&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nevfelozdeniz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nevfelozdeniz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </br>
 #### Business
-- :paperclip: [My Resume/CV](https://www.kariyer.net/ozgecmis/nevfelgokberkozdeniz?o=c15o )
+- :paperclip: [My Resume/CV](https://nevfel.vercel.app/)
 - :email: nevfelo@gmail.com
 
 </br>
