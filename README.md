@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nevfelozdeniz/nevfelozdeniz/main/1.png" width="1200" height="250" />
+<img src="https://raw.githubusercontent.com/nevfelozdeniz/nevfelozdeniz/refs/heads/main/github_banner.jpg" width="1200" height="250" />
 
 ## Hi I'm Nevfel 👋
 
