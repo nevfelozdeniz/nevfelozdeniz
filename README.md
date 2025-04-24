@@ -24,7 +24,7 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Restful API](https://img.shields.io/badge/Restful%20API-%235A0FC8.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white)
-![SAP PowerBuilder](https://img.shields.io/badge/PowerBuilder-%23E34F26.svg?style=for-the-badge&logo=sap&logoColor=white)
+![SAP PowerBuilder](https://img.shields.io/badge/SAP%20PowerBuilder-%23E34F26.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Sybase SQL Anywhere](https://img.shields.io/badge/SAP%20Sybase%20SQL%20Anywhere-%23E34F26.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
