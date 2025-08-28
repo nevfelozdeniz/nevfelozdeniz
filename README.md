@@ -39,10 +39,6 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 ![Agile Metotları](https://img.shields.io/badge/Agile%20Metotları-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nevfelozdeniz&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevfelozdeniz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </br>
 
 #### Business
