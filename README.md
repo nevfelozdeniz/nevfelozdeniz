@@ -28,15 +28,15 @@ I'm Nevfel Ozdeniz, a Full Stack Web Developer.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Agile Metotları](https://img.shields.io/badge/Agile%20Metotları-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%236DB33F.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+![Agile Metotları](https://img.shields.io/badge/Agile%20Metotları-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 </br>
 
